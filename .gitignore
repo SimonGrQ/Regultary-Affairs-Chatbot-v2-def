@@ -1,0 +1,4 @@
+.env
+__pycache__/
+mdr_db/          # La DB pesa 500MB+. Se regenera con build_db.py
+documents/*.pdf  # Opcional: No subas PDFs por peso/legalidad. Mejor links
